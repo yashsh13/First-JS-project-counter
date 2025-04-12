@@ -1,0 +1,43 @@
+/* Universal */
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+/* Body */
+body{
+    background-color: #F1F5F8;
+    font-size:50px;
+}
+
+/* Container */
+#container{
+    text-align: center;
+    margin-top: 10%;
+}
+
+/* Title */
+h2{
+    color: #102B42;
+    margin-bottom: 20px;
+}
+
+/* Number */
+h1{
+    color: #102B42;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+
+/* Buttons */
+.btn{
+    font-size: 25px;
+    background-color: #F1F5F8;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border:3px solid black ;
+}
+
+.btn:hover{
+    border:3px solid #005FCC ;
+    cursor: pointer;
+}
